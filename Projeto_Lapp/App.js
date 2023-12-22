@@ -8,11 +8,10 @@ import PagTemp from './src/pages/PagTemp';
 export default function App() {
   return (
 
-    /*<NavigationContainer>
-      <Routes />
+    <NavigationContainer>
+      <Routes/>
     </NavigationContainer>
-    */
-   <PagTemp></PagTemp>
+  
 
 
   );
